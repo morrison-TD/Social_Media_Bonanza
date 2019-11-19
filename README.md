@@ -47,7 +47,7 @@ Social_Media_Bonaza (Jupyter Notebook)
 * Use pymongo added the merged dataframe to MongoDB
 
 ### Final Report 
-[See file.] (Analysis/FinalReport.pdf)
+[See file.] (/Social_Media_Bonanza/master/Analysis//FinalReport.pdf)
 
 
 
