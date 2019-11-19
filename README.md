@@ -1,7 +1,7 @@
 # Social Media Bonanza
 ## YouTube & News
 
-![](SocialMedia.gif)
+![](images/SocialMedia.gif)
 
 ELT Project authored by: Blake Freeman, Jill Smith, Tomeka Morrison, Trong Nguyen
 
