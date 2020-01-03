@@ -20,7 +20,7 @@ News Articles:
 https://www.kaggle.com/therohk/million-headlines/downloads/million-headlines.zip/8 - Main Data
 
 
-### Techincal Report (also included in Final Report document)
+### Technical Report (also included in Final Report document)
 Clean_News_Articles (Jupyter notebook)
 * Import articles csv files using pandas and create dataframes. 
     * Files used: ArticlesJan2018, ArticlesFeb2018, ArticlesMarch2018, ArticlesApril2018
